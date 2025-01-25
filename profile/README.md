@@ -7,7 +7,7 @@ This is a work done in the [M2N (Modélisation Mathématique et Numérique) Grou
 
 
 - 📦 Frameworks used:
-  - [KratosMultiPhysics]([OpenFoam](https://github.com/KratosMultiphysics/Kratos))
+  - [KratosMultiPhysics](https://github.com/KratosMultiphysics/Kratos)
   - [NumPy](https://numpy.org/)
   - [Scipy](https://scipy.org/)
   - [Fenics/Fenicsx](https://fenicsproject.org/)
