@@ -3,7 +3,7 @@
 Here is a collection of repositories involving Data-Driven Reduced Order Models for Fluid-Structure Interaction (FSI).
 This is a work done in the [M2N (Modélisation Mathématique et Numérique) Group](https://maths.cnam.fr/M2N/) in CNAM Paris.
 
-![structureSofGithub](https://github.com/user-attachments/assets/2b2a2252-98de-4993-bc6c-cc58212b418c)
+![‎structureSofGithub png ‎001](https://github.com/user-attachments/assets/d7531ad9-ee64-4d3d-a25b-d92e502b1e07)
 
 
 - 📦 Frameworks used:
@@ -15,7 +15,7 @@ This is a work done in the [M2N (Modélisation Mathématique et Numérique) Grou
 
 --------
 The following repositories are linked to the same project, and may be transferred to this organization in the future:
-[ROM_AM](https://github.com/azzeddinetiba/ROM_AM)
+[ROM_AM](https://github.com/azzeddinetiba/ROM_AM);
 [fsi_piston](https://github.com/azzeddinetiba/fsi_piston)
 
 
